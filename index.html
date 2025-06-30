@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tra cứu danh sách lớp 1 - Trường Tiểu học Hà Khẩu</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url('background.jpg'); /* Thay ảnh nền tại đây */
+      background-size: cover;
+      background-position: center;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #003366;
+      font-size: 26px;
+      text-align: center;
+      margin-bottom: 20px;
+      background-color: rgba(255, 255, 255, 0.8);
+      padding: 10px;
+      border-radius: 10px;
+    }
+
+    .input-box {
+      max-width: 400px;
+      margin: 0 auto;
+      background-color: rgba(255, 255, 255, 0.9);
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    input {
+      width: 100%;
+      padding: 14px;
+      margin: 10px 0;
+      font-size: 18px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+
+    button {
+      width: 100%;
+      padding: 14px;
+      font-size: 18px;
+      background-color: #0066cc;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    .result {
+      margin-top: 30px;
+      font-size: 20px;
+      font-weight: 500;
+      text-align: left;
+      line-height: 1.6;
+      padding-left: 10px;
+    }
+
+    .result div:nth-child(odd) {
+      background-color: #d0eaff;
+    }
+
+    .result div:nth-child(even) {
+      background-color: #ffffff;
+    }
+
+    .result div {
+      padding: 10px;
+      border-radius: 6px;
+      margin: 6px 0;
+    }
+
+    .note {
+      margin-top: 40px;
+      font-size: 18px;
+      text-align: center;
+      color: #cc0000;
+      background-color: rgba(255, 255, 255, 0.8);
+      padding: 10px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>TRA CỨU DANH SÁCH LỚP 1<br>Trường Tiểu học Hà Khẩu<br>NĂM HỌC 2025 - 2026</h1>
+  <div class="input-box">
+    <input type="text" id="hoTen" placeholder="Nhập họ tên học sinh" />
+    <input type="text" id="maDinhDanh" placeholder="Nhập mã định danh" />
+    <button onclick="traCuu()">Tra cứu</button>
+  </div>
+  <div id="ketQua" class="result"></div>
+  <div class="note">Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ số điện thoại: <strong>0906 162 184</strong></div>
+
+  <!-- Thư viện jQuery -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- Thư viện ripple effect -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.ripples/0.5.3/jquery.ripples.min.js"></script>
+
+  <script>
+    // Kích hoạt hiệu ứng ripple trên body
+    $(document).ready(function () {
+      $('body').ripples({
+        resolution: 512,
+          dropRadius: 5,      // bán kính gợn nước (số càng lớn gợn càng to)
+          perturbance: 0.01,   // độ biến dạng (gần 0 = nhẹ, gần 1 = sóng mạnh)
+          interactive: true   // Người dùng có thể chạm để tạo sóng
+      });
+    });
+
+    let duLieu = [];
+
+    fetch('data.json')
+      .then(response => response.json())
+      .then(data => duLieu = data);
+
+    function traCuu() {
+      const hoTen = document.getElementById("hoTen").value.trim().toLowerCase();
+      const maDinhDanh = document.getElementById("maDinhDanh").value.trim();
+      const ketQua = document.getElementById("ketQua");
+      ketQua.innerHTML = "";
+
+      const hs = duLieu.find(item =>
+        item["Họ tên"].trim().toLowerCase() === hoTen &&
+        item["Mã định danh của HS"].toString().trim() === maDinhDanh
+      );
+
+      if (hs) {
+        ketQua.innerHTML = `
+          <div>🔸 Họ tên học sinh: <strong>${hs["Họ và tên"]}</strong></div>
+          <div>🔸 Ngày sinh: <strong>${hs["Ngày tháng năm sinh"]}</strong></div>
+          <div>🔸 Mã định danh: <strong>${hs["Mã định danh của HS"]}</strong></div>
+          <div>🔸 Nơi sinh: <strong>${hs["Nơi sinh (Huyện, tỉnh)"]}</strong></div>
+          <div>🔸 Nơi ở hiện tại: <strong>${hs["Nơi ở hiện tại"]}</strong></div>
+          <div>❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️</div>
+          <div>🏫 Chào mừng em <strong>${hs["Họ tên"]}</strong> đến với Trường Tiểu học Hà Khẩu!</div>
+          <div>🎉 Em sẽ là <strong>học sinh của lớp ${hs["Học lớp"]}</strong> thân yêu.</div>
+          <div>👩‍🏫 Cô giáo chủ nhiệm của lớp là: <strong>${hs["Giáo viên chủ nhiệm"]}</strong>.</div>
+          <div>🌟 <strong>Chúc em có một hành trình học tập tuyệt vời tại ngôi trường Tiểu học Hà Khẩu!<strong>🌟</div>
+        `;
+      } else {
+        ketQua.innerHTML = "<div>❗Không tìm thấy học sinh. Vui lòng kiểm tra lại họ tên và mã định danh.</div>";
+      }
+    }
+  </script>
+</body>
+</html>
