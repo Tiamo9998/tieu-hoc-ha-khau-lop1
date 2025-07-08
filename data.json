@@ -1,0 +1,2492 @@
+[
+  {
+    "STT": 1,
+    "Họ và tên": "Nguyễn Hoài An",
+    "Ngày tháng năm sinh": "01/11/2019",
+    "Mã định danh của HS": "022319008859",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 22, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 2,
+    "Họ và tên": "Nguyễn Ngọc Hoài An",
+    "Ngày tháng năm sinh": "03/01/2019",
+    "Mã định danh của HS": "034319017591",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 15, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 3,
+    "Họ và tên": "Thái Hoàng Anh",
+    "Ngày tháng năm sinh": "08/02/2019",
+    "Mã định danh của HS": "022219000807",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 19, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 4,
+    "Họ và tên": "Ngô Nhật Anh",
+    "Ngày tháng năm sinh": "28/6/2019",
+    "Mã định danh của HS": "022219004780",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 48, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 5,
+    "Họ và tên": "Đoàn Minh Anh",
+    "Ngày tháng năm sinh": "21/9/2019",
+    "Mã định danh của HS": "022319006832",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 35, khu 4, Phường Hà Khẩu.",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 6,
+    "Họ và tên": "Phạm Mai Anh",
+    "Ngày tháng năm sinh": "17/02/2019",
+    "Mã định danh của HS": "036319001713",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Phụ sản, tỉnh Nam Định",
+    "Nơi ở hiện tại": "Tổ 65, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 7,
+    "Họ và tên": "Nguyễn Tuấn Anh",
+    "Ngày tháng năm sinh": "17/8/2019",
+    "Mã định danh của HS": "022219008200",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 40, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 8,
+    "Họ và tên": "Dương Quỳnh Anh",
+    "Ngày tháng năm sinh": "03/4/2019",
+    "Mã định danh của HS": "024319008777",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 42, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 9,
+    "Họ và tên": "Vũ Hồng Ánh",
+    "Ngày tháng năm sinh": "21/10/2019",
+    "Mã định danh của HS": "022319008011",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 56, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 10,
+    "Họ và tên": "Nguyễn Ngọc Minh Châu",
+    "Ngày tháng năm sinh": "02/11/2019",
+    "Mã định danh của HS": "022319008448",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 65, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 11,
+    "Họ và tên": "Nguyễn Lan Chi",
+    "Ngày tháng năm sinh": "22/11/2019",
+    "Mã định danh của HS": "001319057260",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viên Quốc tế Vinmec Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 76, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 12,
+    "Họ và tên": "Đặng An Chi",
+    "Ngày tháng năm sinh": "28/10/2019",
+    "Mã định danh của HS": "022319008090",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 42, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 13,
+    "Họ và tên": "Nguyễn Minh Dũng",
+    "Ngày tháng năm sinh": "12/4/2019",
+    "Mã định danh của HS": "022219002742",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 24, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 14,
+    "Họ và tên": "Nguyễn Trần Ngân Hà",
+    "Ngày tháng năm sinh": "30/3/2019",
+    "Mã định danh của HS": "022319002180",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 31, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 15,
+    "Họ và tên": "Đào Quang Hải",
+    "Ngày tháng năm sinh": "25/02/2019",
+    "Mã định danh của HS": "036219002843",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 60, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 16,
+    "Họ và tên": "Nguyễn Gia Bảo Hân",
+    "Ngày tháng năm sinh": "02/7/2019",
+    "Mã định danh của HS": "022319004775",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 17,
+    "Họ và tên": "Lê Thị Ngọc Hân",
+    "Ngày tháng năm sinh": "07/5/2019",
+    "Mã định danh của HS": "022319004350",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, Phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 18,
+    "Họ và tên": "Lê Gia Huy",
+    "Ngày tháng năm sinh": "26/02/2019",
+    "Mã định danh của HS": "034219019527",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 19,
+    "Họ và tên": "Nguyễn Duy Hưng",
+    "Ngày tháng năm sinh": "22/01/2019",
+    "Mã định danh của HS": "022219001004",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 72, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 20,
+    "Họ và tên": "Nguyễn Đình Hưng",
+    "Ngày tháng năm sinh": "11/02/2019",
+    "Mã định danh của HS": "022219008904",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 16, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 21,
+    "Họ và tên": "Nguyễn Thị khánh Ngân",
+    "Ngày tháng năm sinh": "10/9/2019",
+    "Mã định danh của HS": "022319006537",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 5, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 22,
+    "Họ và tên": "Dương Thảo Nhi",
+    "Ngày tháng năm sinh": "30/9/2019",
+    "Mã định danh của HS": "020319006777",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 57, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 23,
+    "Họ và tên": "Dương Minh Khôi",
+    "Ngày tháng năm sinh": "20/4/2019",
+    "Mã định danh của HS": "022219002897",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 66, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 24,
+    "Họ và tên": "Lê Bảo Lâm",
+    "Ngày tháng năm sinh": "02/11/2019",
+    "Mã định danh của HS": "022219008886",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 55, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 25,
+    "Họ và tên": "Trần Ánh Ngọc",
+    "Ngày tháng năm sinh": "03/3/2019",
+    "Mã định danh của HS": "035319001004",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Phụ sản, tỉnh Nam Định",
+    "Nơi ở hiện tại": "Tổ 21, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 26,
+    "Họ và tên": "Đàm Nguyễn Đăng Nguyên",
+    "Ngày tháng năm sinh": "06/9/2019",
+    "Mã định danh của HS": "034219018239",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Đa khoa Thái Thuỵ, tỉnh Thái Bình",
+    "Nơi ở hiện tại": "Tổ 29, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 27,
+    "Họ và tên": "Hoàng Hồ Tuệ Nhi",
+    "Ngày tháng năm sinh": "06/3/2019",
+    "Mã định danh của HS": "022319001326",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 52, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 28,
+    "Họ và tên": "Đỗ Minh  Phúc",
+    "Ngày tháng năm sinh": "27/06/2019",
+    "Mã định danh của HS": "019219000041",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 75, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 29,
+    "Họ và tên": "Nguyễn Minh Phương",
+    "Ngày tháng năm sinh": "09/9/2019",
+    "Mã định danh của HS": "022319006509",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 75, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 30,
+    "Họ và tên": "Nguyễn Anh Quân",
+    "Ngày tháng năm sinh": "04/01/2019",
+    "Mã định danh của HS": "022219000017",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 11, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 31,
+    "Họ và tên": "Trương Hữu Toàn",
+    "Ngày tháng năm sinh": "06/7/2019",
+    "Mã định danh của HS": "034219005801",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 42, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 32,
+    "Họ và tên": "Nguyễn Trần Minh Trí",
+    "Ngày tháng năm sinh": "10/8/2019",
+    "Mã định danh của HS": "022219007388",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 60, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 33,
+    "Họ và tên": "Nguyễn Xuân Vỹ",
+    "Ngày tháng năm sinh": "12/01/2019",
+    "Mã định danh của HS": "022219000161",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 91, khu Đồn Điền, P. Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 34,
+    "Họ và tên": "Phạm Bảo Vy",
+    "Ngày tháng năm sinh": "25/03/2019",
+    "Mã định danh của HS": "022319001907",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 27, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 35,
+    "Họ và tên": "Nguyễn Gia Khánh",
+    "Ngày tháng năm sinh": "22/04/2029",
+    "Mã định danh của HS": "022219002773",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 26, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A1",
+    "Giáo viên chủ nhiệm": "Nguyễn Thu Thuỷ (Số điện thoại: 0949254179)"
+  },
+  {
+    "STT": 36,
+    "Họ và tên": "Lê Trần Hoài An",
+    "Ngày tháng năm sinh": "10/10/2019",
+    "Mã định danh của HS": "022319008159",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 68, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 37,
+    "Họ và tên": "Đào Đức An",
+    "Ngày tháng năm sinh": "12/02/2019",
+    "Mã định danh của HS": "022219000799",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 16, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 38,
+    "Họ và tên": "Nguyễn Cẩm Tú Anh",
+    "Ngày tháng năm sinh": "02/12/2019",
+    "Mã định danh của HS": "022319009678",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 56, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 39,
+    "Họ và tên": "Lương Hạ Anh",
+    "Ngày tháng năm sinh": "31/7/2019",
+    "Mã định danh của HS": "022319005958",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 38, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 40,
+    "Họ và tên": "Lê Hoàng Anh",
+    "Ngày tháng năm sinh": "27/04/2019",
+    "Mã định danh của HS": "022219003166",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 79, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 41,
+    "Họ và tên": "Vũ Quỳnh Anh",
+    "Ngày tháng năm sinh": "17/9/2019",
+    "Mã định danh của HS": "022319008463",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 26, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 42,
+    "Họ và tên": "Nguyễn Quốc Anh",
+    "Ngày tháng năm sinh": "20/11/2019",
+    "Mã định danh của HS": "022219011284",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 49, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 43,
+    "Họ và tên": "Vũ Quốc Bảo",
+    "Ngày tháng năm sinh": "31/8/2019",
+    "Mã định danh của HS": "022219006683",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 63, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 44,
+    "Họ và tên": "Nguyễn Ngọc Châu",
+    "Ngày tháng năm sinh": "22/12/2019",
+    "Mã định danh của HS": "022319010462",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Đa khoa Quỳnh Phụ, tỉnh Thái Bình",
+    "Nơi ở hiện tại": "Tổ 11, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 45,
+    "Họ và tên": "Lê Thành Công",
+    "Ngày tháng năm sinh": "23/06/2019",
+    "Mã định danh của HS": "022219005610",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 34, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 46,
+    "Họ và tên": "Lại Thanh Hải",
+    "Ngày tháng năm sinh": "17/07/2019",
+    "Mã định danh của HS": "022219005572",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 49, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 47,
+    "Họ và tên": "Vũ Đức Hiếu",
+    "Ngày tháng năm sinh": "12/11/2019",
+    "Mã định danh của HS": "022219009407",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 79, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 48,
+    "Họ và tên": "Đặng Minh Hiếu",
+    "Ngày tháng năm sinh": "09/5/2019",
+    "Mã định danh của HS": "022219003304",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 47, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 49,
+    "Họ và tên": "Trần Gia Hưng",
+    "Ngày tháng năm sinh": "06/7/2019",
+    "Mã định danh của HS": "022219005168",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 14, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 50,
+    "Họ và tên": "Hoàng Gia Huy",
+    "Ngày tháng năm sinh": "15/05/2019",
+    "Mã định danh của HS": "022219003713",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 11, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 51,
+    "Họ và tên": "Bùi Tường Huy",
+    "Ngày tháng năm sinh": "20/9/2019",
+    "Mã định danh của HS": "022219007289",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 36, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 52,
+    "Họ và tên": "Nguyễn Trung Kiên",
+    "Ngày tháng năm sinh": "20/8/2019",
+    "Mã định danh của HS": "031219009645",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viên Phụ sản, Thành phố Hải Phòng",
+    "Nơi ở hiện tại": "Tổ 55, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 53,
+    "Họ và tên": "Phạm Thùy Linh",
+    "Ngày tháng năm sinh": "11/01/2019",
+    "Mã định danh của HS": "022319000161",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 82, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 54,
+    "Họ và tên": "Phạm Bình Minh",
+    "Ngày tháng năm sinh": "21/10/2019",
+    "Mã định danh của HS": "022219008615",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 91, khu Đồn Điền, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 55,
+    "Họ và tên": "Đặng Nhật Minh",
+    "Ngày tháng năm sinh": "25/09/2019",
+    "Mã định danh của HS": "022219007516",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 30, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 56,
+    "Họ và tên": "Lê Đức Nhân",
+    "Ngày tháng năm sinh": "24/02/2019",
+    "Mã định danh của HS": "031219003182",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 72, khu 7, phường Hà khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 57,
+    "Họ và tên": "Trần Minh Quân",
+    "Ngày tháng năm sinh": "22/10/2019",
+    "Mã định danh của HS": "022219008649",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Đa khoa thị xã Phú Thọ, tỉnh Phú Thọ",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 58,
+    "Họ và tên": "Hoàng Mạnh Thắng",
+    "Ngày tháng năm sinh": "18/7/2019",
+    "Mã định danh của HS": "022219005779",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 57, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 59,
+    "Họ và tên": "Ngô Trần Đan Thanh",
+    "Ngày tháng năm sinh": "01/8/2019",
+    "Mã định danh của HS": "022319000933",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 17, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 60,
+    "Họ và tên": "Nguyễn Phương Thảo",
+    "Ngày tháng năm sinh": "10/10/2019",
+    "Mã định danh của HS": "031319011983",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 47, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 61,
+    "Họ và tên": "Trần Nguyễn Phương Thảo",
+    "Ngày tháng năm sinh": "18/02/2019",
+    "Mã định danh của HS": "022319000991",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 78 , khu 7, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 62,
+    "Họ và tên": "Nguyễn Trấn Thiên",
+    "Ngày tháng năm sinh": "14/07/2019",
+    "Mã định danh của HS": "022219005648",
+    "Nơi sinh (Huyện, tỉnh)": "Trung tâm Y tế huyện Hữu Lũng, Lạng Sơn",
+    "Nơi ở hiện tại": "Tổ 24, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 63,
+    "Họ và tên": "Nguyễn Tiến Thịnh",
+    "Ngày tháng năm sinh": "02/8/2019",
+    "Mã định danh của HS": "022219008403",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 84, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 64,
+    "Họ và tên": "Nguyễn Anh Thư",
+    "Ngày tháng năm sinh": "27/10/2019",
+    "Mã định danh của HS": "022319007884",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 66, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 65,
+    "Họ và tên": "Dương Anh Thư",
+    "Ngày tháng năm sinh": "26/11/2019",
+    "Mã định danh của HS": "020319006053",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 63, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 66,
+    "Họ và tên": "Đoàn Anh Thư",
+    "Ngày tháng năm sinh": "28/07/2019",
+    "Mã định danh của HS": "033319005785",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 69, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 67,
+    "Họ và tên": "Vàng Thị Bích Sa",
+    "Ngày tháng năm sinh": "22/10/2019",
+    "Mã định danh của HS": "012319004218",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 72, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 68,
+    "Họ và tên": "Nguyễn Đức Tuấn",
+    "Ngày tháng năm sinh": "29/5/2019",
+    "Mã định danh của HS": "022219003805",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 15, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 69,
+    "Họ và tên": "Nguyễn Tú Uyên",
+    "Ngày tháng năm sinh": "14/05/2019",
+    "Mã định danh của HS": "022319003108",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 34, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 70,
+    "Họ và tên": "Nguyễn Hà Yến",
+    "Ngày tháng năm sinh": "15/04/2019",
+    "Mã định danh của HS": "022319003050",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 80, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A2",
+    "Giáo viên chủ nhiệm": "Lê Thu Hiền (Số điện thoại: 0373084121)"
+  },
+  {
+    "STT": 71,
+    "Họ và tên": "Trần Khải An",
+    "Ngày tháng năm sinh": "01/11/2019",
+    "Mã định danh của HS": "022219012178",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 79, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 72,
+    "Họ và tên": "Nguyễn Bình An",
+    "Ngày tháng năm sinh": "02/6/2019",
+    "Mã định danh của HS": "034319003589",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Đa Khoa, huyện Thái Thụy, tỉnh Thái Bình",
+    "Nơi ở hiện tại": "Tổ 79, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 73,
+    "Họ và tên": "Hoàng Minh Anh",
+    "Ngày tháng năm sinh": "04/11/2019",
+    "Mã định danh của HS": "022319009581",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 82, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 74,
+    "Họ và tên": "Bùi Vũ Song Anh",
+    "Ngày tháng năm sinh": "13/7/2019",
+    "Mã định danh của HS": "022319004711",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 61, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 75,
+    "Họ và tên": "Lê Đức Anh",
+    "Ngày tháng năm sinh": "03/12/2019",
+    "Mã định danh của HS": "001219073463",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bạch Mai, Hà Nội",
+    "Nơi ở hiện tại": "Tổ 56, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 76,
+    "Họ và tên": "Trần Tùng Anh",
+    "Ngày tháng năm sinh": "30/10/2019",
+    "Mã định danh của HS": "022219010132",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 48, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 77,
+    "Họ và tên": "Phạm Ngọc Diệp",
+    "Ngày tháng năm sinh": "08/7/2019",
+    "Mã định danh của HS": "022319004552",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 19, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 78,
+    "Họ và tên": "Đặng Mỹ Dung",
+    "Ngày tháng năm sinh": "01/01/2019",
+    "Mã định danh của HS": "022319001030",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 29, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 79,
+    "Họ và tên": "Nguyễn Mạnh Dũng",
+    "Ngày tháng năm sinh": "22/8/2019",
+    "Mã định danh của HS": "022219006508",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 18, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 80,
+    "Họ và tên": "Vũ Khánh Dương",
+    "Ngày tháng năm sinh": "10/4/2019",
+    "Mã định danh của HS": "031219004170",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 8, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 81,
+    "Họ và tên": "Trương Văn Đại",
+    "Ngày tháng năm sinh": "21/11/2019",
+    "Mã định danh của HS": "022219009950",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 10, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 82,
+    "Họ và tên": "Vũ Minh Đức",
+    "Ngày tháng năm sinh": "15/7/2019",
+    "Mã định danh của HS": "022219005316",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 21, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 83,
+    "Họ và tên": "Đặng Hương Giang",
+    "Ngày tháng năm sinh": "14/5/2019",
+    "Mã định danh của HS": "022319003415",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 65, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 84,
+    "Họ và tên": "Nguyễn Hoàng Hưng",
+    "Ngày tháng năm sinh": "28/3/2019",
+    "Mã định danh của HS": "024219007109",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viên Đa khoa, tỉnh Đồng Nai",
+    "Nơi ở hiện tại": "Tổ 57, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 85,
+    "Họ và tên": "Nguyễn Gia Hưng",
+    "Ngày tháng năm sinh": "17/9/2019",
+    "Mã định danh của HS": "022219007133",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 86,
+    "Họ và tên": "Đỗ Minh Hoàng",
+    "Ngày tháng năm sinh": "10/7/2019",
+    "Mã định danh của HS": "022219006509",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 16, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 87,
+    "Họ và tên": "Ngô Bảo Khang",
+    "Ngày tháng năm sinh": "17/11/2019",
+    "Mã định danh của HS": "022219009448",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 71, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 88,
+    "Họ và tên": "Nguyễn Ngọc Minh Khang",
+    "Ngày tháng năm sinh": "08/12/2019",
+    "Mã định danh của HS": "022219011129",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 42, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 89,
+    "Họ và tên": "Lương Cao Đăng Khoa",
+    "Ngày tháng năm sinh": "19/10/2019",
+    "Mã định danh của HS": "022219008461",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 96, khu Đồn Điền, Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 90,
+    "Họ và tên": "Nhữ Minh Khôi",
+    "Ngày tháng năm sinh": "18/10/2019",
+    "Mã định danh của HS": "030219013662",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Phụ sản, tỉnh Hải Dương",
+    "Nơi ở hiện tại": "Tổ 57, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 91,
+    "Họ và tên": "Lê Tuấn Khôi",
+    "Ngày tháng năm sinh": "24/6/2019",
+    "Mã định danh của HS": "022219004572",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 42, khu 4,phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 92,
+    "Họ và tên": "Vũ Đức Bảo Long",
+    "Ngày tháng năm sinh": 43582,
+    "Mã định danh của HS": "022219002979",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 14, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 93,
+    "Họ và tên": "Vũ Hồng Liên",
+    "Ngày tháng năm sinh": "06/01/2019",
+    "Mã định danh của HS": "022319000036",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 26, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 94,
+    "Họ và tên": "Nguyễn Khánh Linh",
+    "Ngày tháng năm sinh": "04/5/2019",
+    "Mã định danh của HS": "022319002984",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 12, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 95,
+    "Họ và tên": "Vũ Thuỳ Linh",
+    "Ngày tháng năm sinh": "08/8/2019",
+    "Mã định danh của HS": "022319005389",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 28, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 96,
+    "Họ và tên": "Đinh Phúc Lộc",
+    "Ngày tháng năm sinh": "08/02/2019",
+    "Mã định danh của HS": "022219001079",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 20, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 97,
+    "Họ và tên": "Vũ Hiểu Minh",
+    "Ngày tháng năm sinh": "18/07/2019",
+    "Mã định danh của HS": "036219009337",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 78, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 98,
+    "Họ và tên": "Đỗ Bảo Ngọc",
+    "Ngày tháng năm sinh": "27/09/2019",
+    "Mã định danh của HS": "036319011801",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Phụ sản, tỉnh Thái Bình",
+    "Nơi ở hiện tại": "Tổ 19, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 99,
+    "Họ và tên": "Nguyễn Thị Yến Nhi",
+    "Ngày tháng năm sinh": "16/6/2019",
+    "Mã định danh của HS": "022319004153",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 47, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 100,
+    "Họ và tên": "Hà Minh Phúc",
+    "Ngày tháng năm sinh": "20/6/2019",
+    "Mã định danh của HS": "014219005187",
+    "Nơi sinh (Huyện, tỉnh)": "Tổ 35, khu 4, phường Hà Khẩu",
+    "Nơi ở hiện tại": "Tổ 24, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 101,
+    "Họ và tên": "Nguyễn Phan Thành",
+    "Ngày tháng năm sinh": "22/11/2019",
+    "Mã định danh của HS": "022219009751",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 68, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 102,
+    "Họ và tên": "Đỗ Thanh Thuỷ",
+    "Ngày tháng năm sinh": "27/4/2019",
+    "Mã định danh của HS": "022319003599",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 8, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 103,
+    "Họ và tên": "Vũ Thanh Trúc",
+    "Ngày tháng năm sinh": "18/01/2019",
+    "Mã định danh của HS": "022319000337",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 79, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 104,
+    "Họ và tên": "Lê Khắc Việt",
+    "Ngày tháng năm sinh": "24/9/2019",
+    "Mã định danh của HS": "022219008275",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 42, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 105,
+    "Họ và tên": "Nguyễn Danh Tùng",
+    "Ngày tháng năm sinh": "11/12/1017",
+    "Mã định danh của HS": "022217010253",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 2 khu 1, phường Hà Khẩu",
+    "Học lớp": "1A3",
+    "Giáo viên chủ nhiệm": "Vũ Thị Hồng Nhung (Số điện thoại: 0979221295)"
+  },
+  {
+    "STT": 106,
+    "Họ và tên": "Nguyễn Hoài An",
+    "Ngày tháng năm sinh": "11/3/2019",
+    "Mã định danh của HS": "022319001487",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 28, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 107,
+    "Họ và tên": "Đoàn Hạnh An",
+    "Ngày tháng năm sinh": "06/5/2019",
+    "Mã định danh của HS": "022319003353",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 17, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 108,
+    "Họ và tên": "Nguyễn Khánh An",
+    "Ngày tháng năm sinh": "07/3/2019",
+    "Mã định danh của HS": "022319001322",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 65, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 109,
+    "Họ và tên": "Chu Bảo Anh",
+    "Ngày tháng năm sinh": "21/04/2019",
+    "Mã định danh của HS": "022319003292",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 72, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 110,
+    "Họ và tên": "Lê Bảo Anh",
+    "Ngày tháng năm sinh": "11/11/2019",
+    "Mã định danh của HS": "022319008430",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 55, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 111,
+    "Họ và tên": "Nguyễn Gia Bảo",
+    "Ngày tháng năm sinh": "02/10/2019",
+    "Mã định danh của HS": "022219008216",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 10, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 112,
+    "Họ và tên": "Vũ Quốc Bảo",
+    "Ngày tháng năm sinh": "17/10/2019",
+    "Mã định danh của HS": "022219008628",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 70, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 113,
+    "Họ và tên": "Nguyễn Quỳnh Chi",
+    "Ngày tháng năm sinh": "15/12/2019",
+    "Mã định danh của HS": "022319009750",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 14, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 114,
+    "Họ và tên": "Phạm Thuỳ Dương",
+    "Ngày tháng năm sinh": "24/6/2019",
+    "Mã định danh của HS": "022319004241",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 21, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 115,
+    "Họ và tên": "Phạm Văn Hải Đăng",
+    "Ngày tháng năm sinh": "06/11/2019",
+    "Mã định danh của HS": "038323008856",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Phụ sản, tỉnh Thanh Hóa",
+    "Nơi ở hiện tại": "Tổ 68, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 116,
+    "Họ và tên": "Trần Anh Đức",
+    "Ngày tháng năm sinh": "16/11/2019",
+    "Mã định danh của HS": "022219010037",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 117,
+    "Họ và tên": "Triệu Ngọc Hoàn",
+    "Ngày tháng năm sinh": "18/7/2019",
+    "Mã định danh của HS": "022219005564",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 18, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 118,
+    "Họ và tên": "Đào Gia Hưng",
+    "Ngày tháng năm sinh": "21/04/2019",
+    "Mã định danh của HS": "034219002840",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Phụ sản, tỉnh Thái Bình",
+    "Nơi ở hiện tại": "Tổ 75, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 119,
+    "Họ và tên": "Trần Gia Hưng",
+    "Ngày tháng năm sinh": "16/3/2019",
+    "Mã định danh của HS": "034219001618",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 47, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 120,
+    "Họ và tên": "Nguyễn Quang Khải",
+    "Ngày tháng năm sinh": "12/5/2019",
+    "Mã định danh của HS": "022219003390",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 54, khu 5, phường Hà Khẩu.",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 121,
+    "Họ và tên": "Bùi Đức Minh Khôi",
+    "Ngày tháng năm sinh": "26/01/2019",
+    "Mã định danh của HS": "022219000624",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 19, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 122,
+    "Họ và tên": "Trần Minh Khôi",
+    "Ngày tháng năm sinh": "26/6/2019",
+    "Mã định danh của HS": "022219004661",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Đa khoa Tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 28, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 123,
+    "Họ và tên": "Phạm Minh Khôi",
+    "Ngày tháng năm sinh": "18/11/2019",
+    "Mã định danh của HS": "022219009785",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 20, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 124,
+    "Họ và tên": "Trần Khánh Linh",
+    "Ngày tháng năm sinh": "03/9/2019",
+    "Mã định danh của HS": "022319006227",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 39, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 125,
+    "Họ và tên": "Đặng Anh Minh",
+    "Ngày tháng năm sinh": "11/12/2019",
+    "Mã định danh của HS": "024219005331",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 72, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 126,
+    "Họ và tên": "Đinh Khải Ngân",
+    "Ngày tháng năm sinh": "10/11/2019",
+    "Mã định danh của HS": "025319010600",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Ninh Bình",
+    "Nơi ở hiện tại": "Tổ 82, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 127,
+    "Họ và tên": "Đinh Minh Nguyên",
+    "Ngày tháng năm sinh": "24/3/2019",
+    "Mã định danh của HS": "022219002340",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 52, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 128,
+    "Họ và tên": "Lê Gia Nhi",
+    "Ngày tháng năm sinh": "14/5/2019",
+    "Mã định danh của HS": "022319003586",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 10, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 129,
+    "Họ và tên": "Lưu Phúc Hưng",
+    "Ngày tháng năm sinh": "06/11/2019",
+    "Mã định danh của HS": "022219009077",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 57, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 130,
+    "Họ và tên": "Nguyễn Thị Quỳnh Như",
+    "Ngày tháng năm sinh": "16/5/2019",
+    "Mã định danh của HS": "030319005216",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Phụ sản, tỉnh Hải Dương",
+    "Nơi ở hiện tại": "Tổ 62, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 131,
+    "Họ và tên": "Nguyễn Minh Phúc",
+    "Ngày tháng năm sinh": "01/7/2019",
+    "Mã định danh của HS": "034219018213",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 22, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 132,
+    "Họ và tên": "Hoàng Thiên Phúc",
+    "Ngày tháng năm sinh": "10/9/2019",
+    "Mã định danh của HS": "022219007140",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 24, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 133,
+    "Họ và tên": "Nguyễn Quang Phúc",
+    "Ngày tháng năm sinh": "11/01/2019",
+    "Mã định danh của HS": "022219000671",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 60, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 134,
+    "Họ và tên": "Đồng Toàn Thắng",
+    "Ngày tháng năm sinh": "13/12/2019",
+    "Mã định danh của HS": "022219010432",
+    "Nơi sinh (Huyện, tỉnh)": "Trung tâm y tế huyện Tiên Yên, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 84, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 135,
+    "Họ và tên": "Nguyễn Gia Thảo",
+    "Ngày tháng năm sinh": "22/08/2019",
+    "Mã định danh của HS": "031319009084",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 75, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 136,
+    "Họ và tên": "Lê Phước Thịnh",
+    "Ngày tháng năm sinh": "17/03/2019",
+    "Mã định danh của HS": "022219003125",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 75, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 137,
+    "Họ và tên": "Bùi Quỳnh Thư",
+    "Ngày tháng năm sinh": "18/07/2019",
+    "Mã định danh của HS": "022319005243",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 52, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 138,
+    "Họ và tên": "Nguyễn Thanh Tùng",
+    "Ngày tháng năm sinh": "22/10/2019",
+    "Mã định danh của HS": "022219008675",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 58, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 139,
+    "Họ và tên": "Phạm Cát Tường",
+    "Ngày tháng năm sinh": "08/11/2019",
+    "Mã định danh của HS": "027319011187",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 92, khu Đồn Điền, P.Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 140,
+    "Họ và tên": "Phạm Minh Khang",
+    "Ngày tháng năm sinh": "21/6/2019",
+    "Mã định danh của HS": "022219004472",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 22, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 141,
+    "Họ và tên": "Lại Thị Phương Thanh",
+    "Ngày tháng năm sinh": "06/6/2019",
+    "Mã định danh của HS": "024319013991",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Xã Ngọc Thiện, tỉnh Bắc Giang",
+    "Học lớp": "1A4",
+    "Giáo viên chủ nhiệm": "Trần Thị Thu Hương (Số điện thoại: 0982310387)"
+  },
+  {
+    "STT": 142,
+    "Họ và tên": "Dương Cát Tường An",
+    "Ngày tháng năm sinh": "08/01/2019",
+    "Mã định danh của HS": "022319000913",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 96, khu Đồn Điền, P.Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 143,
+    "Họ và tên": "Đinh Bảo An",
+    "Ngày tháng năm sinh": "31/12/2019",
+    "Mã định danh của HS": "022319010577",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 38, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 144,
+    "Họ và tên": "Lê Bảo An",
+    "Ngày tháng năm sinh": "24/6/2019",
+    "Mã định danh của HS": "019331900033",
+    "Nơi sinh (Huyện, tỉnh)": "Thủ đô Viên Chăn, nước CHND Lào",
+    "Nơi ở hiện tại": "Tổ 49, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 145,
+    "Họ và tên": "Phạm Quỳnh Anh",
+    "Ngày tháng năm sinh": "16/9/2019",
+    "Mã định danh của HS": "022319000647",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 38, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 146,
+    "Họ và tên": "Vũ Diệp Anh",
+    "Ngày tháng năm sinh": "26/10/2019",
+    "Mã định danh của HS": "034319009620",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Đa khoa Đông Hưng, tỉnh Thái Bình",
+    "Nơi ở hiện tại": "Tổ 85, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 147,
+    "Họ và tên": "Tô Đức Bình",
+    "Ngày tháng năm sinh": "03/02/2019",
+    "Mã định danh của HS": "022219000816",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 39, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 148,
+    "Họ và tên": "Trần Ánh Dương",
+    "Ngày tháng năm sinh": "25/08/2019",
+    "Mã định danh của HS": "037319009969",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 27, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 149,
+    "Họ và tên": "Trần Tiến Đạt",
+    "Ngày tháng năm sinh": "12/6/2019",
+    "Mã định danh của HS": "022219005217",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 150,
+    "Họ và tên": "Bùi Ngọc Diệp",
+    "Ngày tháng năm sinh": "08/4/2019",
+    "Mã định danh của HS": "022319002299",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 22, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 151,
+    "Họ và tên": "Vũ Minh Đức",
+    "Ngày tháng năm sinh": "02/4/2019",
+    "Mã định danh của HS": "022219002336",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 85, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 152,
+    "Họ và tên": "Nguyễn Gia Hân",
+    "Ngày tháng năm sinh": "28/4/2019",
+    "Mã định danh của HS": "034319002954",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 8, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 153,
+    "Họ và tên": "Lê Gia Hân",
+    "Ngày tháng năm sinh": "10/09/2019",
+    "Mã định danh của HS": "034319007645",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 22, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 154,
+    "Họ và tên": "Trần Quốc Hùng",
+    "Ngày tháng năm sinh": "06/12/2019",
+    "Mã định danh của HS": "022219010220",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 31, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 155,
+    "Họ và tên": "Phạm Gia Huy",
+    "Ngày tháng năm sinh": "18/3/2019",
+    "Mã định danh của HS": "022219002128",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 20, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 156,
+    "Họ và tên": "Bùi Đức Khải",
+    "Ngày tháng năm sinh": "19/10/2019",
+    "Mã định danh của HS": "022219008878",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 66, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 157,
+    "Họ và tên": "Đồng Đức  Khánh",
+    "Ngày tháng năm sinh": "06/01/2019",
+    "Mã định danh của HS": "022219000105",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 82, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 158,
+    "Họ và tên": "Dương Phương Khoa",
+    "Ngày tháng năm sinh": "25/01/2019",
+    "Mã định danh của HS": "022219000746",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 79, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 159,
+    "Họ và tên": "Nguyễn Vũ Đăng Khoa",
+    "Ngày tháng năm sinh": "02/7/2019",
+    "Mã định danh của HS": "022219005317",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 51, khu 5, phưởng Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 160,
+    "Họ và tên": "Nguyễn Minh Kiên",
+    "Ngày tháng năm sinh": "21/12/2019",
+    "Mã định danh của HS": "006219002457",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 62, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 161,
+    "Họ và tên": "Lê Nguyễn Phúc Lâm",
+    "Ngày tháng năm sinh": "20/3/2019",
+    "Mã định danh của HS": "022219002515",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 14, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 162,
+    "Họ và tên": "Nguyễn Phúc Lâm",
+    "Ngày tháng năm sinh": "12/3/2019",
+    "Mã định danh của HS": "022219002905",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 5, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 163,
+    "Họ và tên": "Nguyễn Gia Linh",
+    "Ngày tháng năm sinh": "29/04/2019",
+    "Mã định danh của HS": "034319002767",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 22, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 164,
+    "Họ và tên": "Đoàn Nhật Minh",
+    "Ngày tháng năm sinh": "15/01/2019",
+    "Mã định danh của HS": "022219000282",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 21, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 165,
+    "Họ và tên": "Trần Nhật Minh",
+    "Ngày tháng năm sinh": "10/7/2019",
+    "Mã định danh của HS": "022219005319",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 41, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 166,
+    "Họ và tên": "Nguyễn Khánh Ngọc",
+    "Ngày tháng năm sinh": "29/01/2019",
+    "Mã định danh của HS": "022319000828",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 72, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 167,
+    "Họ và tên": "Nguyễn Yến Nhi",
+    "Ngày tháng năm sinh": "04/6/2019",
+    "Mã định danh của HS": "033319010347",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Hưng Yên",
+    "Nơi ở hiện tại": "Tổ 59, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 168,
+    "Họ và tên": "Lương Triệu Phú",
+    "Ngày tháng năm sinh": "14/6/2019",
+    "Mã định danh của HS": "022219004437",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 31, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 169,
+    "Họ và tên": "Nguyễn Tấn Phúc",
+    "Ngày tháng năm sinh": "09/10/2019",
+    "Mã định danh của HS": "022219010874",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 24, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 170,
+    "Họ và tên": "Nguyễn Thư Quỳnh",
+    "Ngày tháng năm sinh": "15/01/2019",
+    "Mã định danh của HS": "022319000225",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 48, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 171,
+    "Họ và tên": "Phạm Phương Thảo",
+    "Ngày tháng năm sinh": "20/4/2019",
+    "Mã định danh của HS": "022319002865",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 172,
+    "Họ và tên": "Phạm Quỳnh Trang",
+    "Ngày tháng năm sinh": "02/7/2019",
+    "Mã định danh của HS": "037319004004",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Ninh Bình",
+    "Nơi ở hiện tại": "Tổ 25, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 173,
+    "Họ và tên": "Lương Minh Trí",
+    "Ngày tháng năm sinh": "22/11/2019",
+    "Mã định danh của HS": "022219011532",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 49, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 174,
+    "Họ và tên": "Phòng Anh Tú",
+    "Ngày tháng năm sinh": "08/8//2019",
+    "Mã định danh của HS": "015219003637",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 24, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 175,
+    "Họ và tên": "Nguyễn Đức Tùng",
+    "Ngày tháng năm sinh": "20/6/2019",
+    "Mã định danh của HS": "024219021059",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 60, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 176,
+    "Họ và tên": "Chu Hoàng Yến",
+    "Ngày tháng năm sinh": "16/4/2019",
+    "Mã định danh của HS": "022319002338",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 25, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A5",
+    "Giáo viên chủ nhiệm": "Đỗ Thị Hường (Số điện thoại: 0972848259)"
+  },
+  {
+    "STT": 177,
+    "Họ và tên": "Nguyễn Bảo An",
+    "Ngày tháng năm sinh": "24/05/2019",
+    "Mã định danh của HS": "034319003580",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 76, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 178,
+    "Họ và tên": "Nguyễn Trần Thuỳ Anh",
+    "Ngày tháng năm sinh": "08/11/2019",
+    "Mã định danh của HS": "022319008607",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 11, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 179,
+    "Họ và tên": "Phan Tú Anh",
+    "Ngày tháng năm sinh": "30/12/2019",
+    "Mã định danh của HS": "022319010488",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 14, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 180,
+    "Họ và tên": "Trần Đức Anh",
+    "Ngày tháng năm sinh": "13/7/2019",
+    "Mã định danh của HS": "022219005591",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 52, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 181,
+    "Họ và tên": "Dương Quang Anh",
+    "Ngày tháng năm sinh": "15/11/2019",
+    "Mã định danh của HS": "024219003856",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 76, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 182,
+    "Họ và tên": "Phan Trúc Anh",
+    "Ngày tháng năm sinh": "15/9/2019",
+    "Mã định danh của HS": "022319008042",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 72, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 183,
+    "Họ và tên": "Nguyễn Lê Thùy Anh",
+    "Ngày tháng năm sinh": "15/02/2019",
+    "Mã định danh của HS": "022319000808",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 58, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 184,
+    "Họ và tên": "Năng Hoàng Bách",
+    "Ngày tháng năm sinh": "04/7/2019",
+    "Mã định danh của HS": "022219005134",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 85, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 185,
+    "Họ và tên": "Nguyễn Lê Lan Chi",
+    "Ngày tháng năm sinh": "10/7/2019",
+    "Mã định danh của HS": "037319003766",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 55, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 186,
+    "Họ và tên": "Nguyễn Đức Duy",
+    "Ngày tháng năm sinh": "10/01/2019",
+    "Mã định danh của HS": "022219007817",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 22, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 187,
+    "Họ và tên": "Đông Quang Đạt",
+    "Ngày tháng năm sinh": "12/4/2019",
+    "Mã định danh của HS": "008219009388",
+    "Nơi sinh (Huyện, tỉnh)": "Trung tâm y tế huyện Sơn Dương, Tuyên Quang",
+    "Nơi ở hiện tại": "Tổ 75, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 188,
+    "Họ và tên": "Lê Ngọc Hân",
+    "Ngày tháng năm sinh": "14/01/2019",
+    "Mã định danh của HS": "038319034039",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Phụ sản, tỉnh Thanh Hoá",
+    "Nơi ở hiện tại": "Tổ 23, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 189,
+    "Họ và tên": "Nguyễn Đình Minh Khang",
+    "Ngày tháng năm sinh": "06/6/2019",
+    "Mã định danh của HS": "022219004256",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 15, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 190,
+    "Họ và tên": "Vũ Ngân Khánh",
+    "Ngày tháng năm sinh": "17/11/2019",
+    "Mã định danh của HS": "022319008900",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 76, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 191,
+    "Họ và tên": "La Tuấn Khôi",
+    "Ngày tháng năm sinh": "05/9/2019",
+    "Mã định danh của HS": "070219004158",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Từ Dũ, Thành phố Hồ Chí Minh",
+    "Nơi ở hiện tại": "Tổ 35, khu 4, Phường Hà Khẩu.",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 192,
+    "Họ và tên": "Nguyễn Phương Linh",
+    "Ngày tháng năm sinh": "02/08/2019",
+    "Mã định danh của HS": "022319005720",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 85, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 193,
+    "Họ và tên": "Vũ Khánh Linh",
+    "Ngày tháng năm sinh": "17/04/2019",
+    "Mã định danh của HS": "022319002651",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 7, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 194,
+    "Họ và tên": "Đỗ Thị Phương Linh",
+    "Ngày tháng năm sinh": "19/12/2019",
+    "Mã định danh của HS": "051319008655",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 35, Khu 4, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 195,
+    "Họ và tên": "Bùi Thiện Mỹ",
+    "Ngày tháng năm sinh": "03/10/2019",
+    "Mã định danh của HS": "034319008385",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Phụ sản An Đức, tỉnh Thái Bình",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 196,
+    "Họ và tên": "Phạm Bảo Ngân",
+    "Ngày tháng năm sinh": "02/01/2019",
+    "Mã định danh của HS": "034319016388",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Phụ sản, tỉnh Thái Bình",
+    "Nơi ở hiện tại": "Tổ 68, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 197,
+    "Họ và tên": "Đồng Gia Hưng",
+    "Ngày tháng năm sinh": "27/02/2019",
+    "Mã định danh của HS": "022219003128",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 24, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 198,
+    "Họ và tên": "Nguyễn Linh Ngọc",
+    "Ngày tháng năm sinh": "13/10/2019",
+    "Mã định danh của HS": "022319007623",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 85, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 199,
+    "Họ và tên": "Phạm Khánh Ngọc",
+    "Ngày tháng năm sinh": "28/3/2019",
+    "Mã định danh của HS": "022319001948",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 24, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 200,
+    "Họ và tên": "Nguyễn Minh Quân",
+    "Ngày tháng năm sinh": "30/3/2019",
+    "Mã định danh của HS": "022219002660",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 62, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 201,
+    "Họ và tên": "Đào Bá Trung Quân",
+    "Ngày tháng năm sinh": "19/5/2019",
+    "Mã định danh của HS": "022219003746",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 36, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 202,
+    "Họ và tên": "Đỗ Ngọc  Quỳnh",
+    "Ngày tháng năm sinh": "03/8/2019",
+    "Mã định danh của HS": "022319010459",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 69, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 203,
+    "Họ và tên": "Phạm Thái Sơn",
+    "Ngày tháng năm sinh": "22/7/2019",
+    "Mã định danh của HS": "040219018548",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 22, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 204,
+    "Họ và tên": "Đỗ Bùi Bích Thanh",
+    "Ngày tháng năm sinh": "27/01/2019",
+    "Mã định danh của HS": "022319000472",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 39, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 205,
+    "Họ và tên": "Vũ Anh Thư",
+    "Ngày tháng năm sinh": "12/8/2019",
+    "Mã định danh của HS": "022319005830",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 65, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 206,
+    "Họ và tên": "Lưu Minh Trí",
+    "Ngày tháng năm sinh": "03/9/2019",
+    "Mã định danh của HS": "022219007077",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 39, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 207,
+    "Họ và tên": "Trần Ngọc Thanh Trúc",
+    "Ngày tháng năm sinh": "26/10/2019",
+    "Mã định danh của HS": "036319013978",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Phụ sản, tỉnh Nam Định",
+    "Nơi ở hiện tại": "Tổ 26, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 208,
+    "Họ và tên": "Trịnh Bảo Vy",
+    "Ngày tháng năm sinh": "08/12/2019",
+    "Mã định danh của HS": "022319009424",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 14, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 209,
+    "Họ và tên": "Phạm Khánh Vy",
+    "Ngày tháng năm sinh": "09/3/2019",
+    "Mã định danh của HS": "036319004751",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Lào Cai",
+    "Nơi ở hiện tại": "Tổ 47, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 210,
+    "Họ và tên": "Bùi Hà Vy",
+    "Ngày tháng năm sinh": "05/11/2019",
+    "Mã định danh của HS": "022319008702",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 75, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 211,
+    "Họ và tên": "Lê Bích Ngọc",
+    "Ngày tháng năm sinh": "15/8/2019",
+    "Mã định danh của HS": "022319006708",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 55, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 212,
+    "Họ và tên": "Nguyễn Nhật Nam",
+    "Ngày tháng năm sinh": "10/3/2019",
+    "Mã định danh của HS": "022219002805",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A6",
+    "Giáo viên chủ nhiệm": "Đào Thị Thu (Số điện thoại: 0982187241)"
+  },
+  {
+    "STT": 213,
+    "Họ và tên": "Đỗ Minh Anh",
+    "Ngày tháng năm sinh": "20/02/2019",
+    "Mã định danh của HS": "022319001312",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 17, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 214,
+    "Họ và tên": "Phạm Huyền Anh",
+    "Ngày tháng năm sinh": "23/11/2019",
+    "Mã định danh của HS": "022319009138",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 24, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 215,
+    "Họ và tên": "Nguyễn Phan Anh",
+    "Ngày tháng năm sinh": "19/9/2019",
+    "Mã định danh của HS": "022219007770",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Việt Nam - Thuỵ Điển, Uông Bí, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 20, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 216,
+    "Họ và tên": "Vũ Lâm Duy Bảo",
+    "Ngày tháng năm sinh": "25/11/2019",
+    "Mã định danh của HS": "022219009847",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 13, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 217,
+    "Họ và tên": "Lê Trần Bảo Bình",
+    "Ngày tháng năm sinh": "18/10/2019",
+    "Mã định danh của HS": "022319007643",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 10, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 218,
+    "Họ và tên": "Nguyễn Quỳnh Chi",
+    "Ngày tháng năm sinh": "13/12/2019",
+    "Mã định danh của HS": "024319005822",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Bắc Giang",
+    "Nơi ở hiện tại": "Tổ 15, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 219,
+    "Họ và tên": "Lê Thùy Chi",
+    "Ngày tháng năm sinh": "21/6/2019",
+    "Mã định danh của HS": "022319004679",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 43, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 220,
+    "Họ và tên": "Đỗ Ngọc Tâm Đan",
+    "Ngày tháng năm sinh": "12/6/2019",
+    "Mã định danh của HS": "034319004307",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 44, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 221,
+    "Họ và tên": "Bùi Minh Đăng",
+    "Ngày tháng năm sinh": "24/12/2019",
+    "Mã định danh của HS": "022219011525",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 15, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 222,
+    "Họ và tên": "Lương Bảo Hân",
+    "Ngày tháng năm sinh": "26/10/2019",
+    "Mã định danh của HS": "022319008087",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 15, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 223,
+    "Họ và tên": "Đỗ Gia Hân",
+    "Ngày tháng năm sinh": "12/5/2019",
+    "Mã định danh của HS": "022319003150",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 47, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 224,
+    "Họ và tên": "Nguyễn Mỹ Hạnh",
+    "Ngày tháng năm sinh": "25/10/2019",
+    "Mã định danh của HS": "022319007975",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 71, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 225,
+    "Họ và tên": "Hồ Quang Hiếu",
+    "Ngày tháng năm sinh": "24/4/2019",
+    "Mã định danh của HS": "022219003139",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 48, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 226,
+    "Họ và tên": "Nông Khánh Huyền",
+    "Ngày tháng năm sinh": "13/03/2019",
+    "Mã định danh của HS": "022319004601",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 227,
+    "Họ và tên": "Nguyễn Hoàng Đăng Khoa",
+    "Ngày tháng năm sinh": "11/'08/2019",
+    "Mã định danh của HS": "022219006221",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 39, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 228,
+    "Họ và tên": "Nguyễn Minh Khôi",
+    "Ngày tháng năm sinh": "31/07/2019",
+    "Mã định danh của HS": "024219013560",
+    "Nơi sinh (Huyện, tỉnh)": "Trung tâm y tế huyện Lục Ngạn, tỉnh Bắc Giang",
+    "Nơi ở hiện tại": "Tổ 79, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 229,
+    "Họ và tên": "Nguyễn Ngọc Linh",
+    "Ngày tháng năm sinh": "27/3/2019",
+    "Mã định danh của HS": 231319000157,
+    "Nơi sinh (Huyện, tỉnh)": "Thành phố Moscow - Liên Bang Nga",
+    "Nơi ở hiện tại": "Tổ 71, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 230,
+    "Họ và tên": "Nguyễn Ngọc Như Mai",
+    "Ngày tháng năm sinh": "30/8/2019",
+    "Mã định danh của HS": "022319006718",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 58, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 231,
+    "Họ và tên": "Nguyễn Trang Minh",
+    "Ngày tháng năm sinh": "09/4/2019",
+    "Mã định danh của HS": "022319002442",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 45, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 232,
+    "Họ và tên": "Nguyễn Ngọc Hà My",
+    "Ngày tháng năm sinh": "04/9/2019",
+    "Mã định danh của HS": "022319006316",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 18, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 233,
+    "Họ và tên": "Nguyễn Huyền My",
+    "Ngày tháng năm sinh": "10/09/2019",
+    "Mã định danh của HS": "022319006738",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 16, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 234,
+    "Họ và tên": "Phan Vũ Hải Nam",
+    "Ngày tháng năm sinh": "21/12/2019",
+    "Mã định danh của HS": "022219011221",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 85, khu 8, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 235,
+    "Họ và tên": "Lý Hải Nam",
+    "Ngày tháng năm sinh": "03/4/2019",
+    "Mã định danh của HS": "022219003308",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 26, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 236,
+    "Họ và tên": "Nguyễn Trường Nam",
+    "Ngày tháng năm sinh": "09/5/2019",
+    "Mã định danh của HS": "022219003287",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 47, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 237,
+    "Họ và tên": "Bùi Phạm Thảo Nguyên",
+    "Ngày tháng năm sinh": "09/3/2019",
+    "Mã định danh của HS": "022319002055",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 39, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 238,
+    "Họ và tên": "Đoàn Phú Tấn Phát",
+    "Ngày tháng năm sinh": "09/3/2019",
+    "Mã định danh của HS": "022219002267",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 38, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 239,
+    "Họ và tên": "Nguyễn Đăng Phú",
+    "Ngày tháng năm sinh": "31/03/2019",
+    "Mã định danh của HS": "022219003158",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 65, khu 6, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 240,
+    "Họ và tên": "Trịnh Đức Phúc",
+    "Ngày tháng năm sinh": "14/02/2019",
+    "Mã định danh của HS": "022219002094",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 75, khu 7, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 241,
+    "Họ và tên": "Đỗ Xuân Phúc",
+    "Ngày tháng năm sinh": "30/07/2019",
+    "Mã định danh của HS": "022219008405",
+    "Nơi sinh (Huyện, tỉnh)": "Tổ 20, khu 2, phường Hà Khẩu",
+    "Nơi ở hiện tại": "Tổ 20, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 242,
+    "Họ và tên": "Trần Gia Phúc",
+    "Ngày tháng năm sinh": "09/8/2019",
+    "Mã định danh của HS": "034219006786",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 18, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 243,
+    "Họ và tên": "Bùi Phạm Minh Quân",
+    "Ngày tháng năm sinh": "23/4/2019",
+    "Mã định danh của HS": "022219003968",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bạch Mai, Hà Nội",
+    "Nơi ở hiện tại": "Tổ 50, khu 5, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 244,
+    "Họ và tên": "Lâm Nguyễn Thanh Trà",
+    "Ngày tháng năm sinh": "02/5/2019",
+    "Mã định danh của HS": "022319002998",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 26, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 245,
+    "Họ và tên": "Phan Lê Thuỳ Trang",
+    "Ngày tháng năm sinh": "02/6/2019",
+    "Mã định danh của HS": "022319003556",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Sản nhi, tỉnh Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 15, khu 2, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 246,
+    "Họ và tên": "Bùi Thảo Trang",
+    "Ngày tháng năm sinh": "06/12/2019",
+    "Mã định danh của HS": "022319009825",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 40, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 247,
+    "Họ và tên": "Nguyễn Xuân Đông",
+    "Ngày tháng năm sinh": "30/01/2019",
+    "Mã định danh của HS": "022219001091",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 40, khu 4, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 248,
+    "Họ và tên": "Phạm Như Quỳnh",
+    "Ngày tháng năm sinh": "12/5/2019",
+    "Mã định danh của HS": "022319003105",
+    "Nơi sinh (Huyện, tỉnh)": "Bệnh viện Bãi Cháy, Hạ Long, Quảng Ninh",
+    "Nơi ở hiện tại": "Tổ 24, khu 3, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  },
+  {
+    "STT": 249,
+    "Họ và tên": "Nguyễn Tùng Anh",
+    "Ngày tháng năm sinh": "12/01/2019",
+    "Mã định danh của HS": "033219011805",
+    "Nơi sinh (Huyện, tỉnh)": "Trung tâm y tế huyện Lương Sơn, tỉnh Hoà Bình",
+    "Nơi ở hiện tại": "Tổ 4, khu 1, phường Hà Khẩu",
+    "Học lớp": "1A7",
+    "Giáo viên chủ nhiệm": "Vũ Thị Tuấn Ngọc (Số điện thoại: 0388359181)"
+  }
+]
